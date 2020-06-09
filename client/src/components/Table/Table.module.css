@@ -1,0 +1,17 @@
+.table {
+  background-color: #282630;
+  height: 500px;
+  width: 80%;
+  border-radius: 50%;
+  margin: 100px auto;
+  border: 20px solid rgb(88, 88, 88);
+  border-style: double;
+  box-shadow: 0 100px 50px black;
+  position: relative;
+}
+
+.seat {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+}
